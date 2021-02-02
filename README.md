@@ -1,24 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Created the todo app with the following functionalities
+- Addition, removal and updation of todo list
+- Addition, removal and updation of todo items under a specific todo list.
 
-Things you may want to cover:
 
-* Ruby version
 
-* System dependencies
+## Todo Homepage
+![Screenshot 2021-02-02 at 12 58 46 PM](https://user-images.githubusercontent.com/46395883/106566680-a123c180-6556-11eb-81e2-28a663dae0c0.png)
 
-* Configuration
+## Add a new Todo
+![Screenshot 2021-02-02 at 12 58 58 PM](https://user-images.githubusercontent.com/46395883/106566684-a1bc5800-6556-11eb-9e86-81cdd5cc7f60.png)
 
-* Database creation
+## Update an existing Todo
+![Screenshot 2021-02-02 at 12 57 33 PM](https://user-images.githubusercontent.com/46395883/106566662-9bc67700-6556-11eb-8c99-89a97aee8767.png)
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
